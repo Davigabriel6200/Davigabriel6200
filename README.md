@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá Mundo!👋 Davi Gabriel 👨</h1>
+<h1 align="center">Olá Mundo!👋</h1>
 <h3 align="center">Me chamo Davi Gabriel, apaixonado por esportes e jogos. Atualmente focado em Html, Css, Javascript, buscando me especializar em Front-End. Também se aventurando no estudo de Ilustração. Amante da tecnologia busco me especializar cada vez mais no mundo da tecnologia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davigabriel6200&label=Profile%20views&color=0e75b6&style=flat" alt="davigabriel6200" /> </p>
